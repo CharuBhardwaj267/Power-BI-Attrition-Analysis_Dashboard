@@ -30,11 +30,6 @@ The **Power BI HR Analytics Dashboard** solves the problem by providing:
 3. Interact with the dashboard by selecting different departments and viewing insights related to **attrition**, **age**, **experience**, etc.
 4. You can use the **filter** options to analyze data for specific job roles or age groups.
 
-## Key Insights:
-- **Dine-In Orders** generated the highest revenue (₹87,826).
-- **Evening** time had the highest number of orders (15 Orders).
-- **Customer Age** had minimal impact on final bill (R² = 0.012).
-
 ## Future Improvements:
 - Integrate **real-time data** to track live employee metrics.
 - Add **predictive analytics** to forecast future attrition based on historical trends.
